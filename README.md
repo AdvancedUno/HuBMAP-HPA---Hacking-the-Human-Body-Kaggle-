@@ -6,3 +6,5 @@ https://www.kaggle.com/competitions/hubmap-organ-segmentation
 
 - Augmentation using albumentation example https://www.kaggle.com/code/whurobin/data-augmentation-test-with-albumentations/notebook
 - Segformer implementation example https://blog.roboflow.com/how-to-train-segformer-on-a-custom-dataset-with-pytorch-lightning/
+
+- useful info : https://www.kaggle.com/datasets/hengck23/hubmap-discuss-00
