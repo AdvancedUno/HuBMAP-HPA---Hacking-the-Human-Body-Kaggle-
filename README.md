@@ -8,3 +8,5 @@ https://www.kaggle.com/competitions/hubmap-organ-segmentation
 - Segformer implementation example https://blog.roboflow.com/how-to-train-segformer-on-a-custom-dataset-with-pytorch-lightning/
 
 - useful info : https://www.kaggle.com/datasets/hengck23/hubmap-discuss-00
+
+- Coat : https://github.com/mlpc-ucsd/CoaT/blob/main/README.md
