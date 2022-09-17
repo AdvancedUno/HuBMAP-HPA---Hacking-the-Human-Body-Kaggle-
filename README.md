@@ -10,3 +10,5 @@ https://www.kaggle.com/competitions/hubmap-organ-segmentation
 - useful info : https://www.kaggle.com/datasets/hengck23/hubmap-discuss-00
 
 - Coat : https://github.com/mlpc-ucsd/CoaT/blob/main/README.md
+
+- Coat Light Plus model with head
